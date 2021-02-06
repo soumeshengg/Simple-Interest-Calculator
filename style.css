@@ -4,20 +4,17 @@ body {
     color: white;
 }
 h1{
-    color:grey;
+    color: grey;
     font-family: "Verdana", monospace;
 }
 
-.maindiv{
-    margin-right: auto;
+.main_div{
+    margin: auto;
+    text-align: left;
     background-color: white;
     border-radius: 25px;
     color:black;
     width: 500px;
     padding: 20px;
     border: 25px;
-}
-
-footer#foot_id{
-    margin-left:auto;
 }
